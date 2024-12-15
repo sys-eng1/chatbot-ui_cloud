@@ -1,4 +1,4 @@
-# Chatbot UI
+# Chatbot UI (these instructions are from the original repo)
 
 The open-source AI chat app for everyone.
 
